@@ -1,0 +1,13 @@
+.name {
+    height: 50px;
+    width: 50px;
+    color: brown;
+    background-image: url(https://imgv3.fotor.com/images/slider-image/A-clear-image-of-a-woman-wearing-red-sharpened-by-Fotors-image-sharpener.jpg);
+    background-repeat: round;
+    margin: 50px 30px 20px 30px;
+    padding: 50px 50px 50px 50px;
+    border: 80px 80px 80px 50px;
+    border-radius: 80px 80px 5px 80px;
+}
+
+
